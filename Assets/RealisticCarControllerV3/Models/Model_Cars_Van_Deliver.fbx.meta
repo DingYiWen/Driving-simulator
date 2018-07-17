@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 95f261bd00218ea499344a293e4f45e4
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Model_Car_Van_Deliver_LOD0
+    100004: Model_Car_Van_Deliver_LOD1
+    100006: Model_Car_Van_Deliver_LOD2
+    100008: Car_Body_LOD0
+    100010: Car_Body_LOD1
+    100012: Car_Body_LOD2
+    100014: LB_Wheel_LOD0
+    100016: LB_Wheel_LOD1
+    100018: LB_Wheel_LOD2
+    100020: LF_Wheel_LOD0
+    100022: LF_Wheel_LOD1
+    100024: LF_Wheel_LOD2
+    100026: RB_Wheel_LOD0
+    100028: RB_Wheel_LOD1
+    100030: RB_Wheel_LOD2
+    100032: RF_Wheel_LOD0
+    100034: RF_Wheel_LOD1
+    100036: RF_Wheel_LOD2
+    400000: //RootNode
+    400002: Model_Car_Van_Deliver_LOD0
+    400004: Model_Car_Van_Deliver_LOD1
+    400006: Model_Car_Van_Deliver_LOD2
+    400008: Car_Body_LOD0
+    400010: Car_Body_LOD1
+    400012: Car_Body_LOD2
+    400014: LB_Wheel_LOD0
+    400016: LB_Wheel_LOD1
+    400018: LB_Wheel_LOD2
+    400020: LF_Wheel_LOD0
+    400022: LF_Wheel_LOD1
+    400024: LF_Wheel_LOD2
+    400026: RB_Wheel_LOD0
+    400028: RB_Wheel_LOD1
+    400030: RB_Wheel_LOD2
+    400032: RF_Wheel_LOD0
+    400034: RF_Wheel_LOD1
+    400036: RF_Wheel_LOD2
+    2300000: Model_Car_Van_Deliver_LOD0
+    2300002: Model_Car_Van_Deliver_LOD1
+    2300004: Model_Car_Van_Deliver_LOD2
+    2300006: //RootNode
+    2300008: Car_Body_LOD0
+    2300010: Car_Body_LOD1
+    2300012: Car_Body_LOD2
+    2300014: LB_Wheel_LOD0
+    2300016: LB_Wheel_LOD1
+    2300018: LB_Wheel_LOD2
+    2300020: LF_Wheel_LOD0
+    2300022: LF_Wheel_LOD1
+    2300024: LF_Wheel_LOD2
+    2300026: RB_Wheel_LOD0
+    2300028: RB_Wheel_LOD1
+    2300030: RB_Wheel_LOD2
+    2300032: RF_Wheel_LOD0
+    2300034: RF_Wheel_LOD1
+    2300036: RF_Wheel_LOD2
+    3300000: Model_Car_Van_Deliver_LOD0
+    3300002: Model_Car_Van_Deliver_LOD1
+    3300004: Model_Car_Van_Deliver_LOD2
+    3300006: //RootNode
+    3300008: Car_Body_LOD0
+    3300010: Car_Body_LOD1
+    3300012: Car_Body_LOD2
+    3300014: LB_Wheel_LOD0
+    3300016: LB_Wheel_LOD1
+    3300018: LB_Wheel_LOD2
+    3300020: LF_Wheel_LOD0
+    3300022: LF_Wheel_LOD1
+    3300024: LF_Wheel_LOD2
+    3300026: RB_Wheel_LOD0
+    3300028: RB_Wheel_LOD1
+    3300030: RB_Wheel_LOD2
+    3300032: RF_Wheel_LOD0
+    3300034: RF_Wheel_LOD1
+    3300036: RF_Wheel_LOD2
+    4300000: Model_Car_Van_Deliver_LOD0
+    4300002: Model_Car_Van_Deliver_LOD1
+    4300004: Model_Car_Van_Deliver_LOD2
+    4300006: Model_Car_Van_Deliver
+    4300008: LB_Wheel_LOD0
+    4300010: LF_Wheel_LOD0
+    4300012: RB_Wheel_LOD0
+    4300014: RF_Wheel_LOD0
+    4300016: Car_Body_LOD0
+    4300018: RF_Wheel_LOD1
+    4300020: RB_Wheel_LOD1
+    4300022: LB_Wheel_LOD1
+    4300024: LF_Wheel_LOD1
+    4300026: Car_Body_LOD1
+    4300028: RB_Wheel_LOD2
+    4300030: RF_Wheel_LOD2
+    4300032: LF_Wheel_LOD2
+    4300034: LB_Wheel_LOD2
+    4300036: Car_Body_LOD2
+    9500000: //RootNode
+    20500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.01
+    globalScale: 0.0009
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

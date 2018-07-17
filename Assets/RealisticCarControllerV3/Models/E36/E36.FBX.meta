@@ -1,0 +1,237 @@
+fileFormatVersion: 2
+guid: 7401e91ffba5e2146b9831608cba8c5e
+timeCreated: 1456855653
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Badges
+    100002: BrakeLights
+    100004: BrakeLights Glass
+    100006: Bump_FR
+    100008: Chassis
+    100010: Door
+    100012: //RootNode
+    100014: Exhaust
+    100016: FogLight Glass
+    100018: FrontBump
+    100020: HeadLight Glass
+    100022: HeadLight Lenses
+    100024: HeadLights
+    100026: RearBump
+    100028: Wheel_FL
+    100030: Wheel_FL001
+    100032: Object002
+    100034: Object003
+    100036: Wheel_FR
+    100038: Wheel_RL
+    100040: Wheel_RR
+    100042: Wiper
+    100044: Wiper 1
+    100046: Body
+    100048: Wheels
+    100050: Collider
+    100052: ReverseLight Glass
+    100054: SignalLight Glass
+    100056: SignalLightGlass
+    100058: SignalLeft Glass
+    100060: SignalLeft Glass 1
+    100062: SignalRight Glass
+    100064: SignalRight Glass001
+    100066: SignalLeft Glass_R
+    100068: SignalRight Glass_R
+    400000: Badges
+    400002: BrakeLights
+    400004: BrakeLights Glass
+    400006: Bump_FR
+    400008: Chassis
+    400010: Door
+    400012: //RootNode
+    400014: Exhaust
+    400016: FogLight Glass
+    400018: FrontBump
+    400020: HeadLight Glass
+    400022: HeadLight Lenses
+    400024: HeadLights
+    400026: RearBump
+    400028: Wheel_FL
+    400030: Wheel_FL001
+    400032: Object002
+    400034: Object003
+    400036: Wheel_FR
+    400038: Wheel_RL
+    400040: Wheel_RR
+    400042: Wiper
+    400044: Wiper 1
+    400046: Body
+    400048: Wheels
+    400050: Collider
+    400052: ReverseLight Glass
+    400054: SignalLight Glass
+    400056: SignalLightGlass
+    400058: SignalLeft Glass
+    400060: SignalLeft Glass 1
+    400062: SignalRight Glass
+    400064: SignalRight Glass001
+    400066: SignalLeft Glass_R
+    400068: SignalRight Glass_R
+    2300000: Badges
+    2300002: BrakeLights
+    2300004: BrakeLights Glass
+    2300006: Bump_FR
+    2300008: Chassis
+    2300010: Door
+    2300012: Exhaust
+    2300014: FogLight Glass
+    2300016: HeadLight Glass
+    2300018: HeadLight Lenses
+    2300020: HeadLights
+    2300022: RearBump
+    2300024: Wheel_FL
+    2300026: Wheel_FL001
+    2300028: Object002
+    2300030: Object003
+    2300032: Wheel_FR
+    2300034: Wheel_RL
+    2300036: Wheel_RR
+    2300038: Wiper
+    2300040: Wiper 1
+    2300042: Body
+    2300044: Collider
+    2300046: ReverseLight Glass
+    2300048: SignalLight Glass
+    2300050: SignalLightGlass
+    2300052: SignalLeft Glass
+    2300054: SignalLeft Glass 1
+    2300056: SignalRight Glass
+    2300058: SignalRight Glass001
+    2300060: SignalLeft Glass_R
+    2300062: SignalRight Glass_R
+    3300000: Badges
+    3300002: BrakeLights
+    3300004: BrakeLights Glass
+    3300006: Bump_FR
+    3300008: Chassis
+    3300010: Door
+    3300012: Exhaust
+    3300014: FogLight Glass
+    3300016: HeadLight Glass
+    3300018: HeadLight Lenses
+    3300020: HeadLights
+    3300022: RearBump
+    3300024: Wheel_FL
+    3300026: Wheel_FL001
+    3300028: Object002
+    3300030: Object003
+    3300032: Wheel_FR
+    3300034: Wheel_RL
+    3300036: Wheel_RR
+    3300038: Wiper
+    3300040: Wiper 1
+    3300042: Body
+    3300044: Collider
+    3300046: ReverseLight Glass
+    3300048: SignalLight Glass
+    3300050: SignalLightGlass
+    3300052: SignalLeft Glass
+    3300054: SignalLeft Glass 1
+    3300056: SignalRight Glass
+    3300058: SignalRight Glass001
+    3300060: SignalLeft Glass_R
+    3300062: SignalRight Glass_R
+    4300000: Chassis
+    4300002: RearBump
+    4300004: Bump_FR
+    4300006: BrakeLights
+    4300008: HeadLights
+    4300010: Wheel_FL
+    4300012: Exhaust
+    4300014: Badges
+    4300016: HeadLight Glass
+    4300018: HeadLight Lenses
+    4300020: FogLight Glass
+    4300022: BrakeLights Glass
+    4300024: Door
+    4300026: Wheel_FL001
+    4300028: Wheel_RL
+    4300030: Wheel_FR
+    4300032: Wheel_RR
+    4300034: Object002
+    4300036: Object003
+    4300038: Wiper
+    4300040: Wiper
+    4300042: Body
+    4300044: Collider
+    4300046: ReverseLight Glass
+    4300048: SignalLightGlass
+    4300050: SignalLight Glass
+    4300052: SignalLeft Glass
+    4300054: SignalLeft Glass
+    4300056: SignalRight Glass
+    4300058: SignalRight Glass001
+    4300060: SignalRight Glass_R
+    4300062: SignalLeft Glass_R
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.8
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

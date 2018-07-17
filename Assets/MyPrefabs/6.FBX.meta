@@ -1,0 +1,446 @@
+fileFormatVersion: 2
+guid: 0c70af0c2f286f141b5738abf50f844b
+timeCreated: 1518579079
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Action Recovery
+    100004: Birth 01
+    100006: Display 01
+    100008: Display 02
+    100010: Event 02
+    100012: HDM_02_06_antenna
+    100014: HDM_02_06_back_bumper
+    100016: HDM_02_06_back_fenders
+    100018: HDM_02_06_back_register_plate
+    100020: HDM_02_06_bottom
+    100022: HDM_02_06_brake_caliper_00
+    100024: HDM_02_06_brake_caliper_01
+    100026: HDM_02_06_brake_caliper_02
+    100028: HDM_02_06_brake_caliper_03
+    100030: HDM_02_06_brake_disc_and_bolts00
+    100032: HDM_02_06_brake_disc_and_bolts01
+    100034: HDM_02_06_brake_disc_and_bolts02
+    100036: HDM_02_06_brake_disc_and_bolts03
+    100038: HDM_02_06_center_console
+    100040: HDM_02_06_center_console_b
+    100042: HDM_02_06_dashboard
+    100044: HDM_02_06_dashboard_a
+    100046: HDM_02_06_doors
+    100048: HDM_02_06_doors_interior
+    100050: HDM_02_06_front fenders
+    100052: HDM_02_06_front_bumper
+    100054: HDM_02_06_front_register_plate
+    100056: HDM_02_06_front_wipes
+    100058: HDM_02_06_gauges
+    100060: HDM_02_06_gauges_rings
+    100062: HDM_02_06_gearbox_leaver
+    100064: HDM_02_06_handles
+    100066: HDM_02_06_headlight_glass
+    100068: HDM_02_06_headlights
+    100070: HDM_02_06_headlights_2
+    100072: HDM_02_06_hood
+    100074: HDM_02_06_interior
+    100076: HDM_02_06_mercedes_logo_back
+    100078: HDM_02_06_mercedes_logo_front
+    100080: HDM_02_06_mercedes_logo_hood
+    100082: HDM_02_06_mercedes_logo_rim
+    100084: HDM_02_06_mercedes_logo_rim01
+    100086: HDM_02_06_mercedes_logo_rim02
+    100088: HDM_02_06_mercedes_logo_rim03
+    100090: HDM_02_06_mercedes_logo_steewring
+    100092: HDM_02_06_mirror
+    100094: HDM_02_06_mirrors
+    100096: HDM_02_06_muffers
+    100098: HDM_02_06_pedals
+    100100: HDM_02_06_radio
+    100102: HDM_02_06_rim
+    100104: HDM_02_06_rim01
+    100106: HDM_02_06_rim02
+    100108: HDM_02_06_rim03
+    100110: HDM_02_06_rim_valwe
+    100112: HDM_02_06_rim_valwe01
+    100114: HDM_02_06_rim_valwe02
+    100116: HDM_02_06_rim_valwe03
+    100118: HDM_02_06_safety belts
+    100120: HDM_02_06_seat driver
+    100122: HDM_02_06_seat driver01
+    100124: HDM_02_06_side_sills
+    100126: HDM_02_06_sl500_badge
+    100128: HDM_02_06_steering_wheel
+    100130: HDM_02_06_steering_wheel_column
+    100132: HDM_02_06_taillights
+    100134: HDM_02_06_taillights_glass
+    100136: HDM_02_06_tire
+    100138: HDM_02_06_tire01
+    100140: HDM_02_06_tire02
+    100142: HDM_02_06_tire03
+    100144: HDM_02_06_trunk_lid
+    100146: HDM_02_06_windshield
+    100148: HDM_02_06_windshield_frame
+    100150: HDM_02_06_wipes_sill
+    100152: Particle View 01
+    100154: Position Object 01
+    100156: Render 01
+    100158: Rotation 01
+    100160: Shape Instance 01
+    100162: Speed 01
+    400000: //RootNode
+    400002: Action Recovery
+    400004: Birth 01
+    400006: Display 01
+    400008: Display 02
+    400010: Event 02
+    400012: HDM_02_06_antenna
+    400014: HDM_02_06_back_bumper
+    400016: HDM_02_06_back_fenders
+    400018: HDM_02_06_back_register_plate
+    400020: HDM_02_06_bottom
+    400022: HDM_02_06_brake_caliper_00
+    400024: HDM_02_06_brake_caliper_01
+    400026: HDM_02_06_brake_caliper_02
+    400028: HDM_02_06_brake_caliper_03
+    400030: HDM_02_06_brake_disc_and_bolts00
+    400032: HDM_02_06_brake_disc_and_bolts01
+    400034: HDM_02_06_brake_disc_and_bolts02
+    400036: HDM_02_06_brake_disc_and_bolts03
+    400038: HDM_02_06_center_console
+    400040: HDM_02_06_center_console_b
+    400042: HDM_02_06_dashboard
+    400044: HDM_02_06_dashboard_a
+    400046: HDM_02_06_doors
+    400048: HDM_02_06_doors_interior
+    400050: HDM_02_06_front fenders
+    400052: HDM_02_06_front_bumper
+    400054: HDM_02_06_front_register_plate
+    400056: HDM_02_06_front_wipes
+    400058: HDM_02_06_gauges
+    400060: HDM_02_06_gauges_rings
+    400062: HDM_02_06_gearbox_leaver
+    400064: HDM_02_06_handles
+    400066: HDM_02_06_headlight_glass
+    400068: HDM_02_06_headlights
+    400070: HDM_02_06_headlights_2
+    400072: HDM_02_06_hood
+    400074: HDM_02_06_interior
+    400076: HDM_02_06_mercedes_logo_back
+    400078: HDM_02_06_mercedes_logo_front
+    400080: HDM_02_06_mercedes_logo_hood
+    400082: HDM_02_06_mercedes_logo_rim
+    400084: HDM_02_06_mercedes_logo_rim01
+    400086: HDM_02_06_mercedes_logo_rim02
+    400088: HDM_02_06_mercedes_logo_rim03
+    400090: HDM_02_06_mercedes_logo_steewring
+    400092: HDM_02_06_mirror
+    400094: HDM_02_06_mirrors
+    400096: HDM_02_06_muffers
+    400098: HDM_02_06_pedals
+    400100: HDM_02_06_radio
+    400102: HDM_02_06_rim
+    400104: HDM_02_06_rim01
+    400106: HDM_02_06_rim02
+    400108: HDM_02_06_rim03
+    400110: HDM_02_06_rim_valwe
+    400112: HDM_02_06_rim_valwe01
+    400114: HDM_02_06_rim_valwe02
+    400116: HDM_02_06_rim_valwe03
+    400118: HDM_02_06_safety belts
+    400120: HDM_02_06_seat driver
+    400122: HDM_02_06_seat driver01
+    400124: HDM_02_06_side_sills
+    400126: HDM_02_06_sl500_badge
+    400128: HDM_02_06_steering_wheel
+    400130: HDM_02_06_steering_wheel_column
+    400132: HDM_02_06_taillights
+    400134: HDM_02_06_taillights_glass
+    400136: HDM_02_06_tire
+    400138: HDM_02_06_tire01
+    400140: HDM_02_06_tire02
+    400142: HDM_02_06_tire03
+    400144: HDM_02_06_trunk_lid
+    400146: HDM_02_06_windshield
+    400148: HDM_02_06_windshield_frame
+    400150: HDM_02_06_wipes_sill
+    400152: Particle View 01
+    400154: Position Object 01
+    400156: Render 01
+    400158: Rotation 01
+    400160: Shape Instance 01
+    400162: Speed 01
+    2300000: HDM_02_06_antenna
+    2300002: HDM_02_06_back_bumper
+    2300004: HDM_02_06_back_fenders
+    2300006: HDM_02_06_back_register_plate
+    2300008: HDM_02_06_bottom
+    2300010: HDM_02_06_brake_caliper_00
+    2300012: HDM_02_06_brake_caliper_01
+    2300014: HDM_02_06_brake_caliper_02
+    2300016: HDM_02_06_brake_caliper_03
+    2300018: HDM_02_06_brake_disc_and_bolts00
+    2300020: HDM_02_06_brake_disc_and_bolts01
+    2300022: HDM_02_06_brake_disc_and_bolts02
+    2300024: HDM_02_06_brake_disc_and_bolts03
+    2300026: HDM_02_06_center_console
+    2300028: HDM_02_06_center_console_b
+    2300030: HDM_02_06_dashboard
+    2300032: HDM_02_06_dashboard_a
+    2300034: HDM_02_06_doors
+    2300036: HDM_02_06_doors_interior
+    2300038: HDM_02_06_front fenders
+    2300040: HDM_02_06_front_bumper
+    2300042: HDM_02_06_front_register_plate
+    2300044: HDM_02_06_front_wipes
+    2300046: HDM_02_06_gauges
+    2300048: HDM_02_06_gauges_rings
+    2300050: HDM_02_06_gearbox_leaver
+    2300052: HDM_02_06_handles
+    2300054: HDM_02_06_headlight_glass
+    2300056: HDM_02_06_headlights
+    2300058: HDM_02_06_headlights_2
+    2300060: HDM_02_06_hood
+    2300062: HDM_02_06_interior
+    2300064: HDM_02_06_mercedes_logo_back
+    2300066: HDM_02_06_mercedes_logo_front
+    2300068: HDM_02_06_mercedes_logo_hood
+    2300070: HDM_02_06_mercedes_logo_rim
+    2300072: HDM_02_06_mercedes_logo_rim01
+    2300074: HDM_02_06_mercedes_logo_rim02
+    2300076: HDM_02_06_mercedes_logo_rim03
+    2300078: HDM_02_06_mercedes_logo_steewring
+    2300080: HDM_02_06_mirror
+    2300082: HDM_02_06_mirrors
+    2300084: HDM_02_06_muffers
+    2300086: HDM_02_06_pedals
+    2300088: HDM_02_06_radio
+    2300090: HDM_02_06_rim
+    2300092: HDM_02_06_rim01
+    2300094: HDM_02_06_rim02
+    2300096: HDM_02_06_rim03
+    2300098: HDM_02_06_rim_valwe
+    2300100: HDM_02_06_rim_valwe01
+    2300102: HDM_02_06_rim_valwe02
+    2300104: HDM_02_06_rim_valwe03
+    2300106: HDM_02_06_safety belts
+    2300108: HDM_02_06_seat driver
+    2300110: HDM_02_06_seat driver01
+    2300112: HDM_02_06_side_sills
+    2300114: HDM_02_06_sl500_badge
+    2300116: HDM_02_06_steering_wheel
+    2300118: HDM_02_06_steering_wheel_column
+    2300120: HDM_02_06_taillights
+    2300122: HDM_02_06_taillights_glass
+    2300124: HDM_02_06_tire
+    2300126: HDM_02_06_tire01
+    2300128: HDM_02_06_tire02
+    2300130: HDM_02_06_tire03
+    2300132: HDM_02_06_trunk_lid
+    2300134: HDM_02_06_windshield
+    2300136: HDM_02_06_windshield_frame
+    2300138: HDM_02_06_wipes_sill
+    3300000: HDM_02_06_antenna
+    3300002: HDM_02_06_back_bumper
+    3300004: HDM_02_06_back_fenders
+    3300006: HDM_02_06_back_register_plate
+    3300008: HDM_02_06_bottom
+    3300010: HDM_02_06_brake_caliper_00
+    3300012: HDM_02_06_brake_caliper_01
+    3300014: HDM_02_06_brake_caliper_02
+    3300016: HDM_02_06_brake_caliper_03
+    3300018: HDM_02_06_brake_disc_and_bolts00
+    3300020: HDM_02_06_brake_disc_and_bolts01
+    3300022: HDM_02_06_brake_disc_and_bolts02
+    3300024: HDM_02_06_brake_disc_and_bolts03
+    3300026: HDM_02_06_center_console
+    3300028: HDM_02_06_center_console_b
+    3300030: HDM_02_06_dashboard
+    3300032: HDM_02_06_dashboard_a
+    3300034: HDM_02_06_doors
+    3300036: HDM_02_06_doors_interior
+    3300038: HDM_02_06_front fenders
+    3300040: HDM_02_06_front_bumper
+    3300042: HDM_02_06_front_register_plate
+    3300044: HDM_02_06_front_wipes
+    3300046: HDM_02_06_gauges
+    3300048: HDM_02_06_gauges_rings
+    3300050: HDM_02_06_gearbox_leaver
+    3300052: HDM_02_06_handles
+    3300054: HDM_02_06_headlight_glass
+    3300056: HDM_02_06_headlights
+    3300058: HDM_02_06_headlights_2
+    3300060: HDM_02_06_hood
+    3300062: HDM_02_06_interior
+    3300064: HDM_02_06_mercedes_logo_back
+    3300066: HDM_02_06_mercedes_logo_front
+    3300068: HDM_02_06_mercedes_logo_hood
+    3300070: HDM_02_06_mercedes_logo_rim
+    3300072: HDM_02_06_mercedes_logo_rim01
+    3300074: HDM_02_06_mercedes_logo_rim02
+    3300076: HDM_02_06_mercedes_logo_rim03
+    3300078: HDM_02_06_mercedes_logo_steewring
+    3300080: HDM_02_06_mirror
+    3300082: HDM_02_06_mirrors
+    3300084: HDM_02_06_muffers
+    3300086: HDM_02_06_pedals
+    3300088: HDM_02_06_radio
+    3300090: HDM_02_06_rim
+    3300092: HDM_02_06_rim01
+    3300094: HDM_02_06_rim02
+    3300096: HDM_02_06_rim03
+    3300098: HDM_02_06_rim_valwe
+    3300100: HDM_02_06_rim_valwe01
+    3300102: HDM_02_06_rim_valwe02
+    3300104: HDM_02_06_rim_valwe03
+    3300106: HDM_02_06_safety belts
+    3300108: HDM_02_06_seat driver
+    3300110: HDM_02_06_seat driver01
+    3300112: HDM_02_06_side_sills
+    3300114: HDM_02_06_sl500_badge
+    3300116: HDM_02_06_steering_wheel
+    3300118: HDM_02_06_steering_wheel_column
+    3300120: HDM_02_06_taillights
+    3300122: HDM_02_06_taillights_glass
+    3300124: HDM_02_06_tire
+    3300126: HDM_02_06_tire01
+    3300128: HDM_02_06_tire02
+    3300130: HDM_02_06_tire03
+    3300132: HDM_02_06_trunk_lid
+    3300134: HDM_02_06_windshield
+    3300136: HDM_02_06_windshield_frame
+    3300138: HDM_02_06_wipes_sill
+    4300000: HDM_02_06_back_fenders
+    4300002: HDM_02_06_hood
+    4300004: HDM_02_06_front fenders
+    4300006: HDM_02_06_headlight_glass
+    4300008: HDM_02_06_front_bumper
+    4300010: HDM_02_06_mercedes_logo_front
+    4300012: HDM_02_06_mercedes_logo_back
+    4300014: HDM_02_06_windshield_frame
+    4300016: HDM_02_06_side_sills
+    4300018: HDM_02_06_doors
+    4300020: HDM_02_06_back_bumper
+    4300022: HDM_02_06_trunk_lid
+    4300024: HDM_02_06_taillights_glass
+    4300026: HDM_02_06_muffers
+    4300028: HDM_02_06_bottom
+    4300030: HDM_02_06_rim
+    4300032: HDM_02_06_mercedes_logo_rim
+    4300034: HDM_02_06_tire
+    4300036: HDM_02_06_brake_disc_and_bolts00
+    4300038: HDM_02_06_brake_caliper_00
+    4300040: HDM_02_06_mercedes_logo_rim01
+    4300042: HDM_02_06_brake_caliper_01
+    4300044: HDM_02_06_brake_disc_and_bolts01
+    4300046: HDM_02_06_rim01
+    4300048: HDM_02_06_tire01
+    4300050: HDM_02_06_mercedes_logo_hood
+    4300052: HDM_02_06_headlights
+    4300054: HDM_02_06_wipes_sill
+    4300056: HDM_02_06_mirrors
+    4300058: HDM_02_06_handles
+    4300060: HDM_02_06_antenna
+    4300062: HDM_02_06_front_wipes
+    4300064: HDM_02_06_windshield
+    4300066: HDM_02_06_taillights
+    4300068: HDM_02_06_interior
+    4300070: HDM_02_06_dashboard
+    4300072: HDM_02_06_dashboard_a
+    4300074: HDM_02_06_gauges
+    4300076: HDM_02_06_center_console
+    4300078: HDM_02_06_seat driver
+    4300080: HDM_02_06_seat driver01
+    4300082: HDM_02_06_safety belts
+    4300084: HDM_02_06_pedals
+    4300086: HDM_02_06_mirror
+    4300088: HDM_02_06_doors_interior
+    4300090: HDM_02_06_steering_wheel
+    4300092: HDM_02_06_mercedes_logo_steewring
+    4300094: HDM_02_06_front_register_plate
+    4300096: HDM_02_06_back_register_plate
+    4300098: HDM_02_06_gearbox_leaver
+    4300100: HDM_02_06_steering_wheel_column
+    4300102: HDM_02_06_rim_valwe
+    4300104: HDM_02_06_rim_valwe01
+    4300106: HDM_02_06_mercedes_logo_rim02
+    4300108: HDM_02_06_brake_caliper_02
+    4300110: HDM_02_06_brake_disc_and_bolts02
+    4300112: HDM_02_06_rim02
+    4300114: HDM_02_06_tire02
+    4300116: HDM_02_06_rim_valwe02
+    4300118: HDM_02_06_rim03
+    4300120: HDM_02_06_mercedes_logo_rim03
+    4300122: HDM_02_06_tire03
+    4300124: HDM_02_06_brake_disc_and_bolts03
+    4300126: HDM_02_06_brake_caliper_03
+    4300128: HDM_02_06_rim_valwe03
+    4300130: HDM_02_06_center_console_b
+    4300132: HDM_02_06_gauges_rings
+    4300134: HDM_02_06_sl500_badge
+    4300136: HDM_02_06_radio
+    4300138: HDM_02_06_headlights_2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

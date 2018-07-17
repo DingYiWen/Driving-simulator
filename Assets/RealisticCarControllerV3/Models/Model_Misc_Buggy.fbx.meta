@@ -1,0 +1,122 @@
+fileFormatVersion: 2
+guid: bc901bf8390b0294eafc353cf6d53705
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Car_Body
+    100004: LB_Wheel
+    100006: LF_Wheel
+    100008: RB_Wheel
+    100010: RF_Wheel1
+    100012: Buggy
+    100014: RearLeftRot
+    100016: RearRightRot
+    100018: RearLeftHolder
+    100020: RearRightHolder
+    400000: //RootNode
+    400002: Car_Body
+    400004: LB_Wheel
+    400006: LF_Wheel
+    400008: RB_Wheel
+    400010: RF_Wheel1
+    400012: Buggy
+    400014: RearLeftRot
+    400016: RearRightRot
+    400018: RearLeftHolder
+    400020: RearRightHolder
+    2300000: //RootNode
+    2300002: Car_Body
+    2300004: LB_Wheel
+    2300006: LF_Wheel
+    2300008: RB_Wheel
+    2300010: RF_Wheel1
+    2300012: RearLeftRot
+    2300014: RearRightRot
+    2300016: RearLeftHolder
+    2300018: RearRightHolder
+    3300000: //RootNode
+    3300002: Car_Body
+    3300004: LB_Wheel
+    3300006: LF_Wheel
+    3300008: RB_Wheel
+    3300010: RF_Wheel1
+    3300012: RearLeftRot
+    3300014: RearRightRot
+    3300016: RearLeftHolder
+    3300018: RearRightHolder
+    4300000: polySurface1
+    4300002: RF_Wheel1
+    4300004: LF_Wheel
+    4300006: LB_Wheel
+    4300008: RB_Wheel
+    4300010: Car_Body
+    4300012: RearRightRot
+    4300014: RearLeftRot
+    4300016: RearRightHolder
+    4300018: RearLeftHolder
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.006
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

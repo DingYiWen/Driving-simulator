@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: f82b792857e12384d82c80712f39193b
+timeCreated: 1509419517
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Obj3d66-567342-1-637
+    100004: Obj3d66-567342-10-302
+    100006: Obj3d66-567342-11-417
+    100008: Obj3d66-567342-12-441
+    100010: Obj3d66-567342-13-908
+    100012: Obj3d66-567342-14-279
+    100014: Obj3d66-567342-15-335
+    100016: Obj3d66-567342-17-271
+    100018: Obj3d66-567342-18-200
+    100020: Obj3d66-567342-19-871
+    100022: Obj3d66-567342-2-316
+    100024: Obj3d66-567342-20-415
+    100026: Obj3d66-567342-21-817
+    100028: Obj3d66-567342-22-62
+    100030: Obj3d66-567342-23-667
+    100032: Obj3d66-567342-24-786
+    100034: Obj3d66-567342-25-400
+    100036: Obj3d66-567342-26-534
+    100038: Obj3d66-567342-3-544
+    100040: Obj3d66-567342-4-804
+    100042: Obj3d66-567342-5-572
+    100044: Obj3d66-567342-6-13
+    400000: //RootNode
+    400002: Obj3d66-567342-1-637
+    400004: Obj3d66-567342-10-302
+    400006: Obj3d66-567342-11-417
+    400008: Obj3d66-567342-12-441
+    400010: Obj3d66-567342-13-908
+    400012: Obj3d66-567342-14-279
+    400014: Obj3d66-567342-15-335
+    400016: Obj3d66-567342-17-271
+    400018: Obj3d66-567342-18-200
+    400020: Obj3d66-567342-19-871
+    400022: Obj3d66-567342-2-316
+    400024: Obj3d66-567342-20-415
+    400026: Obj3d66-567342-21-817
+    400028: Obj3d66-567342-22-62
+    400030: Obj3d66-567342-23-667
+    400032: Obj3d66-567342-24-786
+    400034: Obj3d66-567342-25-400
+    400036: Obj3d66-567342-26-534
+    400038: Obj3d66-567342-3-544
+    400040: Obj3d66-567342-4-804
+    400042: Obj3d66-567342-5-572
+    400044: Obj3d66-567342-6-13
+    2300000: Obj3d66-567342-1-637
+    2300002: Obj3d66-567342-10-302
+    2300004: Obj3d66-567342-11-417
+    2300006: Obj3d66-567342-12-441
+    2300008: Obj3d66-567342-13-908
+    2300010: Obj3d66-567342-14-279
+    2300012: Obj3d66-567342-15-335
+    2300014: Obj3d66-567342-17-271
+    2300016: Obj3d66-567342-18-200
+    2300018: Obj3d66-567342-19-871
+    2300020: Obj3d66-567342-2-316
+    2300022: Obj3d66-567342-21-817
+    2300024: Obj3d66-567342-22-62
+    2300026: Obj3d66-567342-23-667
+    2300028: Obj3d66-567342-24-786
+    2300030: Obj3d66-567342-25-400
+    2300032: Obj3d66-567342-26-534
+    2300034: Obj3d66-567342-3-544
+    2300036: Obj3d66-567342-4-804
+    2300038: Obj3d66-567342-5-572
+    2300040: Obj3d66-567342-6-13
+    3300000: Obj3d66-567342-1-637
+    3300002: Obj3d66-567342-10-302
+    3300004: Obj3d66-567342-11-417
+    3300006: Obj3d66-567342-12-441
+    3300008: Obj3d66-567342-13-908
+    3300010: Obj3d66-567342-14-279
+    3300012: Obj3d66-567342-15-335
+    3300014: Obj3d66-567342-17-271
+    3300016: Obj3d66-567342-18-200
+    3300018: Obj3d66-567342-19-871
+    3300020: Obj3d66-567342-2-316
+    3300022: Obj3d66-567342-21-817
+    3300024: Obj3d66-567342-22-62
+    3300026: Obj3d66-567342-23-667
+    3300028: Obj3d66-567342-24-786
+    3300030: Obj3d66-567342-25-400
+    3300032: Obj3d66-567342-26-534
+    3300034: Obj3d66-567342-3-544
+    3300036: Obj3d66-567342-4-804
+    3300038: Obj3d66-567342-5-572
+    3300040: Obj3d66-567342-6-13
+    4300000: Obj3d66-567342-1-637
+    4300002: Obj3d66-567342-2-316
+    4300004: Obj3d66-567342-3-544
+    4300006: Obj3d66-567342-4-804
+    4300008: Obj3d66-567342-5-572
+    4300010: Obj3d66-567342-6-13
+    4300012: Obj3d66-567342-10-302
+    4300014: Obj3d66-567342-11-417
+    4300016: Obj3d66-567342-12-441
+    4300018: Obj3d66-567342-13-908
+    4300020: Obj3d66-567342-14-279
+    4300022: Obj3d66-567342-15-335
+    4300024: Obj3d66-567342-17-271
+    4300026: Obj3d66-567342-18-200
+    4300028: Obj3d66-567342-19-871
+    4300030: Obj3d66-567342-21-817
+    4300032: Obj3d66-567342-22-62
+    4300034: Obj3d66-567342-23-667
+    4300036: Obj3d66-567342-24-786
+    4300038: Obj3d66-567342-25-400
+    4300040: Obj3d66-567342-26-534
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
